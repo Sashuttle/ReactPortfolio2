@@ -1,0 +1,15 @@
+/* About.css */
+section {
+    padding: 1rem;
+}
+
+section img {
+    max-width: 150px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+
+section p {
+    max-width: 600px;
+    margin: 0 auto;
+}
