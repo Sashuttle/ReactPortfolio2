@@ -25,10 +25,10 @@ const Contact = () => {
 
     return (
         <section>
-            <h2>Contact</h2>
+            <h2 class="contact">Contact Me</h2>
             <form onSubmit={handleSubmit}>
                 <div>
-                    <label>Name</label>
+                    <label class="formTitle">Name</label>
                     <input
                         type="text"
                         name="name"
@@ -38,7 +38,7 @@ const Contact = () => {
                     />
                 </div>
                 <div>
-                    <label>Email</label>
+                    <label class="formTitle">Email</label>
                     <input
                         type="email"
                         name="email"
@@ -48,7 +48,7 @@ const Contact = () => {
                     />
                 </div>
                 <div>
-                <label>Message</label>
+                <label class="formTitle">Message</label>
                 <textarea
                     name="message"
                     value={form.message}
