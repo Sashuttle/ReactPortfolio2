@@ -7,7 +7,7 @@ const About = () => {
         <section>
             <h2 class="aboutTitle">About Me</h2>
             <div class="me">
-            <img src={me} alt="Developer's picture"/>
+            <img src={me} alt="Developer"/>
             </div>
             <p class="aboutMe">My name is Samantha Shuttleworth and I am studying to become a Full Stack Web Developer. Deciding to pursue this field definitely made me nervous, because I have no previous experience in the coding world. </p><br/>
             <p class="aboutMe">My previous job was a service writer for a local mechanic shop. I learned a lot about vehicle maintenance and how a mechanic shop runs. I created great relationships with my customers and formed wonderful relationships with the mechanics. Before I worked at the mechanic shop, I worked at Geico's National Print Mail Center as a Document Specialist. It was a labor intensive job, where I was on my feet for thirteen hours a day. I worked on mail inserting machiens as well as enormouse printers that were responsible for printing all customer paperwork. I enjoyed both jobs, but I knew it was time for a change.</p><br/>
