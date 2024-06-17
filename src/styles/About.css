@@ -13,3 +13,16 @@ section p {
     max-width: 600px;
     margin: 0 auto;
 }
+
+.aboutTitle {
+    text-align: center;
+    font-size: 50px;
+}
+
+.me {
+    text-align: center;
+}
+
+.aboutMe {
+    font-size: 20px;
+}

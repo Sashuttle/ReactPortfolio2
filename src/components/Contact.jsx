@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import './Contact.css';
+import '../styles/Contact.css';
 
 const Contact = () => {
     const [form, setForm] = useState({ name: '', email: '', message: '' });
